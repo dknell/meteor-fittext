@@ -1,6 +1,6 @@
 {
 	"name": "fittext",
-	"description": "FitText packaged for Meteor.",
+	"description": "FitText packaged for Meteor. FitText is a jQuery plugin that font-sizes scalable and fluid when using responsive layouts (like Bootstrap)",
 	"homepage": "https://github.com/dbubs/meteor-fittext",
 	"author": "David Knell",
 	"version": "1.2.0",

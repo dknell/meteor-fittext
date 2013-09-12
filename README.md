@@ -1,6 +1,8 @@
 ## FitText - Meteor Smart Package
 
-[FitText](http://fittextjs.com) packaged for Meteor. See the [FitText Docs](https://github.com/davatron5000/FitText.js) for more info.
+[FitText](http://fittextjs.com) packaged for Meteor. FitText is a jQuery plugin that font-sizes scalable and fluid when using responsive layouts (like Bootstrap).
+
+See the [FitText Docs](https://github.com/davatron5000/FitText.js) for more info.
 
 ### How to install?
 
