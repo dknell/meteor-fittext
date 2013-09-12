@@ -1,6 +1,6 @@
 ## FitText - Meteor Smart Package
 
-[FitText](https://github.com/davatron5000/FitText.js) packaged for Meteor. See the [FitText Docs](http://fittextjs.com) for more info.
+[FitText](http://fittextjs.com) packaged for Meteor. See the [FitText Docs](https://github.com/davatron5000/FitText.js) for more info.
 
 ### How to install?
 
